@@ -1,10 +1,13 @@
 # Portfolio
+
+---
+
 **Robotics Engineer | Robotics, Automation & Manufacturing | Melbourne, Florida**
 
 ---
 
 ## About Me
-I am an innovative robotics engineer with 2+ years of experience in automation and manufacturing, blending expertise in mechanical design and advanced robotics programming. Proficient in **ROS**, **Drake**, and **Isaac Sim**, with a strong foundation in **deep learning** for computer vision. Passionate about leveraging cutting-edge technologies to push the boundaries of robotic capabilities.
+I am an innovative robotics engineer with over two years of experience in **robotics**, **automation**, and **manufacturing**, integrating advanced robotics programming and mechanical design. With a strong focus on **artificial intelligence**, **computer vision**, and **robotic manipulation**, I specialize in developing intelligent, adaptable robotic systems. My passion lies in harnessing cutting-edge technologies to push the boundaries of what’s possible, bridging the gap between simulation and real-world applications.
 
 ---
 
