@@ -34,23 +34,43 @@ I am an innovative robotics engineer with over two years of experience in **robo
 
 > Dive deeper into this research on the [Research Page](research.md), featuring detailed videos, images, and technical insights.
 
+---
+
 ## Work Experience
 
 ### Robotics Project Developer Intern – Kennedy Space Center Visitor Complex  
 *(June 2024 – Current, Florida, USA)*  
-- Designed and built a functional model of NASA’s Perseverance Rover using **Fusion 360** (mechanical, electronic, and programming).  
-- Developed robust control systems for rover mobility and educational simulations; delivered a fully operational model under a tight timeline.
+- **Developed a full-scale model of NASA’s Perseverance Rover** using **Fusion 360** for mechanical design and prototyping.  
+- Programmed **mobility control systems** with **Python** and **C++**, integrating hardware interfaces with simulation tools.  
+- Created interactive, **educational simulations** powered by real-time data from onboard sensors and processors.  
+- Delivered the model within a tight three-month timeline, showcasing strong project management and technical expertise.  
+- **Tools & Technologies**: Fusion 360, Python, C++, Arduino, ROS  
+
+> **Photos(images/p1.jpg)**: [Gallery of the Rover Model](https://drive.google.com/drive/u/0/folders/1B4sTZQE-PkNOJ4z4tLYSNCGGZhn7AfbS)
+> **Video Demo**: [Watch the Perseverance Rover in Action](https://www.linkedin.com/feed/update/urn:li:activity:7279524648160034816/)   
+
+---
 
 ### Robotics Engineering Intern – Jaycon Systems  
 *(Sep 2024 – Dec 2024, Melbourne, Florida)*  
-- Designed and tested structural components for an augmented reality (AR) device.  
-- Deployed **deep learning-based object detection** models on AR devices, enhancing real-time recognition capabilities.  
-- Contributed to robotic arm automation projects, focusing on precision control algorithms.
+- Designed and tested **structural components** for an augmented reality (AR) device, ensuring performance reliability under field conditions.  
+- Implemented **AI-based object detection models** using **PyTorch** and **OpenCV**, optimizing real-time recognition on AR hardware.  
+- Collaborated on robotic arm automation projects, enhancing precision and scalability through custom algorithms and **Dynamixel** servo integration.  
+- **Tools & Technologies**: PyTorch, OpenCV, C++, ROS, Ansys, SolidWorks, Fusion 360  
+
+> **Video Demo**: [See AR Device in Action](#)  
+> **Photos**: [Gallery of AR Development](#)
+
+---
 
 ### Robotics Engineer – BandG Robotics  
 *(Jan 2021 – Dec 2022, Ahmedabad, India)*  
-- Developed and programmed robotic manipulators using **ROS** and advanced control algorithms.  
-- Designed custom end-effectors (Fusion 360 & SolidWorks) and optimized CNC manufacturing processes for robotic parts.
+- Developed and programmed **6-DoF robotic manipulators** using **ROS** for industrial automation.  
+- Designed **custom end-effectors** and grippers with **Fusion 360** and **SolidWorks**, improving task efficiency across various manufacturing operations.  
+- Optimized CNC manufacturing pipelines with **CAM tools**, reducing production time by 25% while maintaining precision.  
+- **Tools & Technologies**: ROS, Python, SolidWorks, Fusion 360, Ansys, CAM software  
+
+> **Photos**: [Manufacturing and Robotics Showcase](#)
 
 ---
 
@@ -71,17 +91,6 @@ I am an innovative robotics engineer with over two years of experience in **robo
 - **Robotics:** Computer Vision, Manipulation, Navigation, Imitation Learning, Deep Learning, Reinforcement Learning  
 - **Simulation:** Isaac Sim, Gazebo, Drake  
 - **CAD/CAM:** Fusion 360, SolidWorks, Ansys  
-
----
-
-## Key Projects
-### NASA’s Perseverance Rover Model
-- **Tools**: Fusion 360, ROS, Python  
-- **Highlight**: Developed a functional rover model with real-time control and sensor integration for educational demos.
-
-### Augmented Reality Object Detection
-- **Tools**: PyTorch, C++  
-- **Highlight**: Implemented object detection on an AR device, enabling advanced user-interaction and immediate feedback.
 
 ---
 
