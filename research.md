@@ -92,6 +92,7 @@ This research explores the transition from classical robotics to **end-to-end le
 ## Explore More
 ### Videos and Resources
 - [Results and Details](https://drive.google.com/drive/u/0/folders/1LftoRg34HieBMN42KgWSghgstuSexj5M)
+- [Thesis](https://drive.google.com/file/d/1C7pAfuXQWmzh2rpmZ7TqhSQl00mkbWvf/view?usp=drive_link)
 
 ---
 
