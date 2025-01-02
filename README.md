@@ -1,8 +1,6 @@
 # Abhishek Chothani
 **Robotics Engineer | Automation & Manufacturing | Melbourne, Florida**
 
-![Profile Picture](images/profile.jpg)
-
 ---
 
 ## About Me
@@ -85,12 +83,3 @@ Innovative robotics engineer with 2+ years of experience in automation and manuf
 - Description: AR device integration with real-time object detection for advanced user interaction.
 
 > *For more project details, feel free to create additional pages or link to your GitHub repositories!*
-
----
-
-## Adding a Profile Picture
-1. **Create a folder named `images`** in your repository (if it doesn’t already exist).  
-2. Add your image file (e.g., `profile.jpg`) to the `images` folder.  
-3. In the Markdown code, reference it like this:  
-   ```markdown
-   ![Profile Picture](images/profile.jpg)
