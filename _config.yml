@@ -4,7 +4,7 @@
 title: "Abhishek Chothani"
 logo: "images/profile.jpg"
 description: "Innovative Robotics Engineer"
-theme: jekyll-theme-modernist  # You can try other themes: e.g. jekyll-theme-cayman, jekyll-theme-merlot, etc.
+theme: jekyll-theme-minimal  # You can try other themes: e.g. jekyll-theme-cayman, jekyll-theme-merlot, etc.
 
 # Site Author details
 author:
