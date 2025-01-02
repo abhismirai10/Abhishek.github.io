@@ -15,7 +15,7 @@ This research explores the transition from classical robotics to **end-to-end le
   - Lack of adaptability in dynamic environments.
   - Challenges with kinematic singularities.
 
-> **Images**: [Pick-and-Place Pipeline in Action](images/r1.jpg)
+> **Demo Video**: [Pick-and-Place Pipeline in Action](https://drive.google.com/drive/u/0/folders/1LftoRg34HieBMN42KgWSghgstuSexj5M)
 
 ---
 
@@ -44,19 +44,28 @@ This research explores the transition from classical robotics to **end-to-end le
   - Complex rotations and orientation tasks.
 - **Key Advantage**: Handles dynamic changes effectively.
 
-> **Demo Video**: [Diffusion Policies in Action](#)  
-> **Architecture Image**:  
-![Diffusion Policies Architecture](https://www.linkedin.com/feed/update/urn:li:activity:7279526421532708864/)
+> **Demo Post**: [Diffusion Policies in Action](https://www.linkedin.com/feed/update/urn:li:activity:7279526421532708864/) 
 
 ---
 
 ## Experimental Results
-### Success Rates for Tasks:
-| Task                  | ACT Success Rate | Diffusion Policies Success Rate |
-| Pick-and-Place        | 83%             | 85%                             |
-| Object Sliding        | 65%             | 72%                             |
-| Object Stacking       | 78%             | 82%                             |
-| Object Orientation    | 75%             | 83%                             |
+### Success Rates for Tasks
+
+- **Pick-and-Place**:  
+  - ACT Success Rate: 83%  
+  - Diffusion Policies Success Rate: 85%  
+
+- **Object Sliding**:  
+  - ACT Success Rate: 65%  
+  - Diffusion Policies Success Rate: 72%  
+
+- **Object Stacking**:  
+  - ACT Success Rate: 78%  
+  - Diffusion Policies Success Rate: 82%  
+
+- **Object Orientation**:  
+  - ACT Success Rate: 75%  
+  - Diffusion Policies Success Rate: 83%  
 
 > **Insights**:
 > - **ACT**: Best for smooth and consistent task execution.
