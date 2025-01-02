@@ -46,7 +46,7 @@ I am an innovative robotics engineer with over two years of experience in **robo
 - Delivered the model within a tight three-month timeline, showcasing strong project management and technical expertise.  
 - **Tools & Technologies**: Fusion 360, Python, C++, Arduino, ROS  
 
-> **Photos(images/p1.jpg)**: [Gallery of the Rover Model](https://drive.google.com/drive/u/0/folders/1B4sTZQE-PkNOJ4z4tLYSNCGGZhn7AfbS)
+> **![Photos](images/p1.jpg)**: [Gallery of the Rover Model](https://drive.google.com/drive/u/0/folders/1B4sTZQE-PkNOJ4z4tLYSNCGGZhn7AfbS)
 > **Video Demo**: [Watch the Perseverance Rover in Action](https://www.linkedin.com/feed/update/urn:li:activity:7279524648160034816/)   
 
 ---
