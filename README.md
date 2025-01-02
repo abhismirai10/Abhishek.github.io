@@ -1,6 +1,8 @@
 # Portfolio
 
-**Robotics Engineer | Robotics, Automation & Manufacturing | Melbourne, Florida**
+---
+
+##Robotics Engineer | Robotics, Automation & Manufacturing | Melbourne, Florida
 
 ---
 
@@ -10,26 +12,26 @@ I am an innovative robotics engineer with over two years of experience in **robo
 ---
 
 ## Contact
-**Phone:** +1 434-569-9343 | **Email:** [abhismirai10@gmail.com](mailto:abhismirai10@gmail.com)
+**Phone:** +1 434-569-9343 | **Email:** [abhismirai10@gmail.com](mailto:abhismirai10@gmail.com) | 
 **LinkedIn:** [Abhishek Chothani](https://www.linkedin.com/in/abhishek-chothani10/) | **GitHub:** [abhismirai10](https://github.com/abhismirai10) | **YouTube:** [@abhismirai10](https://www.youtube.com/@abhismirai10)
 
 ---
+
 ## Research Highlights
 
-### End-to-End Learning for Low-Cost Robotic Manipulation
-### Research Assistant – NEural TransmissionS (NETS) Lab  
+### End-to-End Learning for Low-Cost Robotic Manipulation | Research Assistant – NEural TransmissionS (NETS) Lab  
 *(Jan 2024 – Dec 2024, Melbourne, Florida)*  
 - Focus: Bridging the gap between traditional and learning-based robotics approaches.
 - Key Contributions:
   - **Classical Robotics Pipeline**:
-    - Developed a robust **pick-and-place pipeline** using the Drake framework and KUKA iiwa robot.
+    - Developed a robust pick-and-place pipeline using the **Drake** framework and **KUKA iiwa** robot.
     - Highlighted limitations like kinematic singularities and lack of perception integration.
   - **Learning-Based Methods**:
     - Implemented and evaluated two advanced AI-driven policies:
       - **Action Chunking with Transformers (ACT)**: Ensures smooth and coherent task execution.
       - **Diffusion Policies**: Focuses on precision and iterative trajectory refinement.
     - Applied to real-world tasks like pick-and-place, stacking, and object orientation.
-  - Hardware and Software Innovations
+  - **Hardware and Software Innovations**:
     - Cost-effective hardware setup with dual RGB cameras and leader-follower robotic arms.
     - Integrated AI frameworks like **LeRobot** to train and evaluate learning-based policies.
     - Emphasized accessibility and scalability for educational and industrial applications.
