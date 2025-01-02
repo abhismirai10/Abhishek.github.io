@@ -1,7 +1,5 @@
 # Portfolio
 
----
-
 **Robotics Engineer | Robotics, Automation & Manufacturing | Melbourne, Florida**
 
 ---
