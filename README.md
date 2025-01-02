@@ -3,36 +3,37 @@
 ---
 
 ## About Me
-I am an innovative robotics engineer with over two years of experience in **robotics**, **automation**, and **manufacturing**, integrating advanced robotics programming and mechanical design. With a strong focus on **artificial intelligence**, **computer vision**, and **robotic manipulation**, I specialize in developing intelligent, adaptable robotic systems. My passion lies in harnessing cutting-edge technologies to push the boundaries of what’s possible, bridging the gap between simulation and real-world applications.
+I am an innovative and driven robotics engineer with over two years of experience in **robotics**, **automation**, and **manufacturing**. My expertise lies in blending advanced **robotics programming**, **artificial intelligence**, and **mechanical design** to create intelligent, adaptable systems that solve real-world challenges.  
+
+With a passion for bridging the gap between theory and practical application, I thrive on leveraging **robotic manipulation**, **computer vision**, and emerging technologies to deliver impactful solutions. My work is dedicated to pushing the boundaries of what’s possible, making technology accessible and scalable for industrial and educational advancements.
+
+> I believe in the power of innovation and collaboration. Let’s create something extraordinary together.
 
 ---
 
 ## Contact
-**Phone:** +1 434-569-9343 | **Email:** [abhismirai10@gmail.com](mailto:abhismirai10@gmail.com) | 
-**LinkedIn:** [Abhishek Chothani](https://www.linkedin.com/in/abhishek-chothani10/) | **GitHub:** [abhismirai10](https://github.com/abhismirai10) | **YouTube:** [@abhismirai10](https://www.youtube.com/@abhismirai10)
+- **Phone**: +1 434-569-9343  
+- **Email**: [abhismirai10@gmail.com](mailto:abhismirai10@gmail.com)  
+- **LinkedIn**: [Abhishek Chothani](https://www.linkedin.com/in/abhishek-chothani10/)  
+- **GitHub**: [abhismirai10](https://github.com/abhismirai10)  
+- **YouTube**: [@abhismirai10](https://www.youtube.com/@abhismirai10)  
 
 ---
 
 ## Research Highlights
 
-### End-to-End Learning for Low-Cost Robotic Manipulation | Research Assistant – NEural TransmissionS [NETS](https://research.fit.edu/nets/) Lab  
+### End-to-End Learning for Low-Cost Robotic Manipulation  
+**Role**: Research Assistant at [NEural TransmissionS (NETS) Lab](https://research.fit.edu/nets/)  
 *(Jan 2024 – Dec 2024, Melbourne, Florida)*  
-- Focus: Bridging the gap between traditional and learning-based robotics approaches.
-- Key Contributions:
-  - **Classical Robotics Pipeline**:
-    - Developed a robust pick-and-place pipeline using the **Drake** framework and **KUKA iiwa** robot.
-    - Highlighted limitations like kinematic singularities and lack of perception integration.
-  - **Learning-Based Methods**:
-    - Implemented and evaluated two advanced AI-driven policies:
-      - **Action Chunking with Transformers (ACT)**: Ensures smooth and coherent task execution.
-      - **Diffusion Policies**: Focuses on precision and iterative trajectory refinement.
-    - Applied to real-world tasks like pick-and-place, stacking, and object orientation.
-  - **Hardware and Software Innovations**:
-    - Cost-effective hardware setup with dual RGB cameras and leader-follower robotic arms.
-    - Integrated AI frameworks like **LeRobot** to train and evaluate learning-based policies.
-    - Emphasized accessibility and scalability for educational and industrial applications.
 
-> Dive deeper into this research on the [Research Page](research.md), featuring detailed videos, images, and technical insights.
+- Focused on advancing robotic learning for manipulators by integrating **AI-driven policies** with traditional methods.  
+- **Key Contributions**:
+  - Developed and refined **pick-and-place pipelines** using AI frameworks.  
+  - Implemented **Action Chunking with Transformers (ACT)** for task precision and fluidity.  
+  - Leveraged **Diffusion Policies** for real-world applications like stacking and orientation tasks.
+  - Designed a **cost-effective dual-camera hardware setup** for efficient AI training.  
+
+> **[Research Page](research.md)**: Explore detailed videos, images, and technical insights from this research.  
 
 ---
 
@@ -40,58 +41,67 @@ I am an innovative robotics engineer with over two years of experience in **robo
 
 ### Robotics Project Developer Intern – Kennedy Space Center Visitor Complex  
 *(June 2024 – Current, Florida, USA)*  
-- **Developed a full-scale model of NASA’s Perseverance Rover** using **Fusion 360** for mechanical design and prototyping.  
-- Programmed **mobility control systems** with **Python** and **C++**, integrating hardware interfaces with simulation tools.  
-- Created interactive, **educational simulations** powered by real-time data from onboard sensors and processors.  
-- Delivered the model within a tight three-month timeline, showcasing strong project management and technical expertise.  
-- **Tools & Technologies**: Fusion 360, Python, C++, Arduino, ROS  
+- Designed and prototyped a **functional model of NASA’s Perseverance Rover** using **Fusion 360** and advanced control systems.  
+- Programmed mobility controls in **Python** and **C++**, enabling precise navigation and task execution.  
+- Delivered interactive, **educational simulations**, inspiring STEM engagement among visitors.  
+- **Tools & Technologies**: Fusion 360, Python, C++, ROS, Arduino  
 
-> **![Photos](images/p1.jpg)**: [Gallery of the Rover Model](https://drive.google.com/drive/u/0/folders/1B4sTZQE-PkNOJ4z4tLYSNCGGZhn7AfbS)
-> **Video Demo**: [Watch the Perseverance Rover in Action](https://www.linkedin.com/feed/update/urn:li:activity:7279524648160034816/)   
+> **[Project Video Demo](https://www.linkedin.com/feed/update/urn:li:activity:7279524648160034816/)**  
+> **[Photo Gallery](https://drive.google.com/drive/u/0/folders/1B4sTZQE-PkNOJ4z4tLYSNCGGZhn7AfbS)**  
 
 ---
 
 ### Robotics Engineering Intern – Jaycon Systems  
 *(Sep 2024 – Dec 2024, Melbourne, Florida)*  
-- Designed and tested **structural components** for an augmented reality (AR) device, ensuring performance reliability under field conditions.  
-- Implemented **AI-based object detection models** using **PyTorch** and **OpenCV**, optimizing real-time recognition on AR hardware.  
-- Collaborated on robotic arm automation projects, enhancing precision and scalability through custom algorithms and **Dynamixel** servo integration.  
-- **Tools & Technologies**: PyTorch, OpenCV, C++, ROS, Ansys, SolidWorks, Fusion 360  
+- Designed and tested **structural components** for augmented reality (AR) devices, enhancing real-time recognition capabilities.  
+- Deployed **AI-based object detection models** with **PyTorch** and **OpenCV** directly on AR hardware.  
+- Enhanced robotic arm automation projects with **Dynamixel servo integration** for precision and efficiency.  
+- **Tools & Technologies**: PyTorch, OpenCV, Fusion 360, SolidWorks, ROS  
 
-> **Video Demo**: [See AR Device in Action](#)  
-> **Photos**: [Gallery of AR Development](#)
+> **[AR Demo Video](#)**  
 
 ---
 
 ### Robotics Engineer – BandG Robotics  
 *(Jan 2021 – Dec 2022, Ahmedabad, India)*  
-- Developed and programmed **6-DoF robotic manipulators** using **ROS** for industrial automation.  
-- Designed **custom end-effectors** and grippers with **Fusion 360** and **SolidWorks**, improving task efficiency across various manufacturing operations.  
-- Optimized CNC manufacturing pipelines with **CAM tools**, reducing production time by 25% while maintaining precision.  
-- **Tools & Technologies**: ROS, Python, SolidWorks, Fusion 360, Ansys, CAM software  
+- Programmed and optimized **6-DoF robotic manipulators** for industrial automation using **ROS**.  
+- Designed and tested **custom end-effectors** for diverse manufacturing tasks using **Fusion 360** and **SolidWorks**.  
+- Streamlined CNC manufacturing processes, reducing production time by 25%.  
+- **Tools & Technologies**: ROS, Python, SolidWorks, Ansys  
 
-> **Photos**: [Manufacturing and Robotics Showcase](#)
+> **[Photo Gallery](#)**  
 
 ---
 
 ## Education
 
-**Florida Institute of Technology**  
-*MS in Mechanical Engineering (GPA 3.60/4.00)*  
-*(Jan 2023 – Dec 2024)*
-
-**Gujarat Technological University**  
-*BE in Mechanical Engineering (GPA 3.50/4.00)*  
-*(Aug 2017 – May 2021)*
+- **Florida Institute of Technology**: MS in Mechanical Engineering *(GPA: 3.60/4.00)*  
+  *(Jan 2023 – Dec 2024)*  
+- **Gujarat Technological University**: BE in Mechanical Engineering *(GPA: 3.50/4.00)*  
+  *(Aug 2017 – May 2021)*  
 
 ---
 
 ## Skills
-- **Programming:** Python, C/C++, PyTorch, ROS, Drake, OpenCV  
-- **Robotics:** Computer Vision, Manipulation, Navigation, Imitation Learning, Deep Learning, Reinforcement Learning  
-- **Simulation:** Isaac Sim, Gazebo, Drake  
-- **CAD/CAM:** Fusion 360, SolidWorks, Ansys  
+
+- **Programming**: Python, C++, PyTorch, OpenCV, ROS  
+- **AI & Robotics**: Computer Vision, Robotic Manipulation, Imitation Learning  
+- **Simulation & CAD**: Fusion 360, SolidWorks, Ansys, Gazebo  
 
 ---
 
-*Thank you for visiting my portfolio! I look forward to connecting and exploring potential collaborations.*
+## Featured Projects
+
+1. **NASA’s Perseverance Rover Model**:  
+   - Tools: Fusion 360, ROS, Python  
+   - Description: Prototyped and programmed a functional educational rover.  
+
+2. **AR Object Detection System**:  
+   - Tools: PyTorch, OpenCV  
+   - Description: Real-time object detection deployed on AR hardware.  
+
+> Explore more on my [Research Page](research.md).  
+
+---
+
+Thank you for visiting my portfolio! I’m excited to collaborate and bring innovative solutions to life.
