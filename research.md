@@ -15,7 +15,7 @@ This research explores the transition from classical robotics to **end-to-end le
   - Lack of adaptability in dynamic environments.
   - Challenges with kinematic singularities.
 
-> **Images**: [Pick-and-Place Pipeline in Action](images/profile.jpg)
+> **Images**: [Pick-and-Place Pipeline in Action](images/r1.jpg)
 
 ---
 
@@ -30,9 +30,7 @@ This research explores the transition from classical robotics to **end-to-end le
   - Object sliding.
 - **Key Advantage**: Superior motion fluidity.
 
-> **Demo Video**: [ACT in Action](#)  
-> **Architecture Image**:  
-![ACT Architecture](images/act-architecture.jpg)
+> **Demo Post**: [ACT in Action](https://www.linkedin.com/feed/update/urn:li:activity:7279526421532708864/)  
 
 ---
 
@@ -48,14 +46,13 @@ This research explores the transition from classical robotics to **end-to-end le
 
 > **Demo Video**: [Diffusion Policies in Action](#)  
 > **Architecture Image**:  
-![Diffusion Policies Architecture](images/diffusion-policies.jpg)
+![Diffusion Policies Architecture](https://www.linkedin.com/feed/update/urn:li:activity:7279526421532708864/)
 
 ---
 
 ## Experimental Results
 ### Success Rates for Tasks:
 | Task                  | ACT Success Rate | Diffusion Policies Success Rate |
-|-----------------------|------------------|---------------------------------|
 | Pick-and-Place        | 83%             | 85%                             |
 | Object Sliding        | 65%             | 72%                             |
 | Object Stacking       | 78%             | 82%                             |
@@ -79,17 +76,15 @@ This research explores the transition from classical robotics to **end-to-end le
   - High-resolution and consistent field-of-view.
 
 > **Image**:  
-![Hardware Setup](images/hardware-setup.jpg)
+![Hardware Setup](images/r2.jpg)
 
 ---
 
 ## Explore More
 ### Videos and Resources
-- [Research Overview](#)
-- [Pick-and-Place Task Demo](#)
-- [Stacking Objects with Diffusion Policies](#)
+- [Results and Details](https://drive.google.com/drive/u/0/folders/1LftoRg34HieBMN42KgWSghgstuSexj5M)
 
 ---
 
 ## References
-For additional technical details and algorithms, refer to my [Master’s Thesis](#).
+For additional technical details and algorithms, refer to my [Master’s Thesis](https://drive.google.com/drive/u/0/folders/1LftoRg34HieBMN42KgWSghgstuSexj5M).
