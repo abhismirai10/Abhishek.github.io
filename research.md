@@ -15,7 +15,7 @@ This research explores the transition from classical robotics to **end-to-end le
   - Lack of adaptability in dynamic environments.
   - Challenges with kinematic singularities.
 
-> **Demo Video**: [Pick-and-Place Pipeline in Action](#)
+> **Images**: [Pick-and-Place Pipeline in Action](images/profile.jpg)
 
 ---
 
