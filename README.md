@@ -2,10 +2,6 @@
 
 ---
 
-## Robotics Engineer | Robotics, Automation & Manufacturing | Melbourne, Florida
-
----
-
 ## About Me
 I am an innovative robotics engineer with over two years of experience in **robotics**, **automation**, and **manufacturing**, integrating advanced robotics programming and mechanical design. With a strong focus on **artificial intelligence**, **computer vision**, and **robotic manipulation**, I specialize in developing intelligent, adaptable robotic systems. My passion lies in harnessing cutting-edge technologies to push the boundaries of what’s possible, bridging the gap between simulation and real-world applications.
 
@@ -19,7 +15,7 @@ I am an innovative robotics engineer with over two years of experience in **robo
 
 ## Research Highlights
 
-### End-to-End Learning for Low-Cost Robotic Manipulation | Research Assistant – NEural TransmissionS (NETS) Lab  
+### End-to-End Learning for Low-Cost Robotic Manipulation | Research Assistant – NEural TransmissionS [NETS](https://research.fit.edu/nets/) Lab  
 *(Jan 2024 – Dec 2024, Melbourne, Florida)*  
 - Focus: Bridging the gap between traditional and learning-based robotics approaches.
 - Key Contributions:
