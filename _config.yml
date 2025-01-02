@@ -1,22 +1,23 @@
 # ----------------------------------
 # _config.yml
 # ----------------------------------
-title: "Abhishek Chothani Portfolio"
-description: "Innovative Robotics Engineer | MELBOURNE, FLORIDA"
-theme: jekyll-theme-minimal  # You can try other themes: e.g. jekyll-theme-cayman, jekyll-theme-merlot, etc.
+title: "Abhishek Chothani"
+logo: "images/profile.jpg"
+description: "Innovative Robotics Engineer"
+theme: jekyll-theme-modernist  # You can try other themes: e.g. jekyll-theme-cayman, jekyll-theme-merlot, etc.
 
 # Site Author details
 author:
   name: "Abhishek Chothani"
   email: "abhismirai10@gmail.com"
-  linkedin: "https://www.linkedin.com/..."   # Replace with your actual URL
-  github: "https://github.com/..."           # Replace with your actual URL
-  youtube: "https://youtube.com/..."         # Replace with your actual URL
+  linkedin: "https://www.linkedin.com/in/abhishek-chothani10/"   # Replace with your actual URL
+  github: "https://github.com/abhismirai10"           # Replace with your actual URL
+  youtube: "https://www.youtube.com/@abhismirai10"         # Replace with your actual URL
 
 # Optional: Add plugins if you want extra features like SEO or feeds
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
 
 # If you have a specific base URL (like if you're hosting on a project page), specify it here:
 # baseurl: "/my-portfolio" 
