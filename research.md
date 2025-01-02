@@ -1,7 +1,14 @@
 # Research
 
+---
+
 ## Overview
-This research explores the transition from classical robotics to **end-to-end learning-based methods** for robotic manipulation. The goal is to create adaptable, cost-effective systems capable of handling dynamic real-world scenarios.
+This research focuses on advancing robotics by transitioning from **classical approaches** to **end-to-end learning-based methods** for robotic manipulation. The goal is to develop **adaptable**, **cost-effective systems** that perform efficiently in dynamic and real-world scenarios, while ensuring accessibility for educational and industrial use.
+
+> **Key Areas of Focus**:  
+> - Classical robotics techniques for task precision and stability.  
+> - AI-driven learning methods for adaptability and dynamic task execution.  
+> - Scalable hardware setups for real-world integration.
 
 ---
 
@@ -15,12 +22,13 @@ This research explores the transition from classical robotics to **end-to-end le
   - Lack of adaptability in dynamic environments.
   - Challenges with kinematic singularities.
 
-> **Demo Images**: ![Pick-and-Place](images/r1.jpg)
+> **Demo Images**: ![Pick-and-Place](images/r1.jpg)  
 > **Demo Video**: [Pick-and-Place Pipeline in Action](https://drive.google.com/drive/u/0/folders/1LftoRg34HieBMN42KgWSghgstuSexj5M)
 
 ---
 
 ## Learning-Based Approaches: ACT and Diffusion Policies
+
 ### 1. Action Chunking with Transformers (ACT)
 - **Focus**: Predicting temporally coherent action sequences to minimize errors.
 - **Techniques**:
@@ -31,7 +39,7 @@ This research explores the transition from classical robotics to **end-to-end le
   - Object sliding.
 - **Key Advantage**: Superior motion fluidity.
 
-> **Demo Post**: [ACT in Action](https://www.linkedin.com/feed/update/urn:li:activity:7279526421532708864/)  
+> **Demo Post**: [ACT in Action](https://www.linkedin.com/feed/update/urn:li:activity:7279526421532708864/)
 
 ---
 
@@ -45,13 +53,13 @@ This research explores the transition from classical robotics to **end-to-end le
   - Complex rotations and orientation tasks.
 - **Key Advantage**: Handles dynamic changes effectively.
 
-> **Demo Post**: [Diffusion Policies in Action](https://www.linkedin.com/feed/update/urn:li:activity:7279526421532708864/) 
+> **Demo Post**: [Diffusion Policies in Action](https://www.linkedin.com/feed/update/urn:li:activity:7279526421532708864/)  
 
 ---
 
 ## Experimental Results
-### Success Rates for Tasks
 
+### Success Rates for Tasks
 - **Pick-and-Place**:  
   - ACT Success Rate: 83%  
   - Diffusion Policies Success Rate: 85%  
@@ -68,13 +76,14 @@ This research explores the transition from classical robotics to **end-to-end le
   - ACT Success Rate: 75%  
   - Diffusion Policies Success Rate: 83%  
 
-> **Insights**:
-> - **ACT**: Best for smooth and consistent task execution.
+> **Insights**:  
+> - **ACT**: Best for smooth and consistent task execution.  
 > - **Diffusion Policies**: Excels in precision-heavy tasks.
 
 ---
 
 ## Hardware Setup
+
 ### Leader-Follower Robotic Arm System
 - **Leader Arm**: Controlled by a human operator for task demonstration.
 - **Follower Arm**: Mimics the leader's movements to collect high-quality training data.
@@ -91,6 +100,7 @@ This research explores the transition from classical robotics to **end-to-end le
 ---
 
 ## Explore More
+
 ### Videos and Resources
 - [Results and Details](https://drive.google.com/drive/u/0/folders/1LftoRg34HieBMN42KgWSghgstuSexj5M)
 
