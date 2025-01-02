@@ -1,5 +1,4 @@
-# Abhishek Chothani
-**Robotics Engineer | Automation & Manufacturing | Melbourne, Florida**
+**Robotics Engineer | Robotics, Automation & Manufacturing | Melbourne, Florida**
 
 ---
 
@@ -12,9 +11,9 @@ Innovative robotics engineer with 2+ years of experience in automation and manuf
 - **Phone:** +1 434-569-9343  
 - **Email:** [abhismirai10@gmail.com](mailto:abhismirai10@gmail.com)  
 - **Location:** Melbourne, Florida 32901  
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-- **GitHub:** [github.com/yourprofile](#)  
-- **YouTube:** [youtube.com/yourchannel](#)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhishek-chothani10/)  
+- **GitHub:** [github.com/yourprofile](https://github.com/abhismirai10)  
+- **YouTube:** [youtube.com/yourchannel](https://www.youtube.com/@abhismirai10)
 
 ---
 
