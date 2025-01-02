@@ -13,16 +13,32 @@ I am an innovative robotics engineer with over two years of experience in **robo
 
 ## Contact
 **Phone:** +1 434-569-9343 | **Email:** [abhismirai10@gmail.com](mailto:abhismirai10@gmail.com)
-**LinkedIn:** [Abhishek Chothani](https://www.linkedin.com/in/abhishek-chothani10/) | **GitHub:** [abhismirai10](https://github.com/abhismirai10) | **YouTube:** [@abhismirai10](https://www.youtube.com/@abhismirai10) |
+**LinkedIn:** [Abhishek Chothani](https://www.linkedin.com/in/abhishek-chothani10/) | **GitHub:** [abhismirai10](https://github.com/abhismirai10) | **YouTube:** [@abhismirai10](https://www.youtube.com/@abhismirai10)
 
 ---
+## Research Highlights
 
-## Work Experience
-
+### End-to-End Learning for Low-Cost Robotic Manipulation
 ### Research Assistant – NEural TransmissionS (NETS) Lab  
 *(Jan 2024 – Dec 2024, Melbourne, Florida)*  
-- Spearheaded end-to-end robotic learning for manipulators using **imitation learning**, integrating **PyTorch**, **ROS**, and **Isaac Sim**.  
-- Achieved significant improvements in real-world task performance through sim-to-real transfer.
+- Focus: Bridging the gap between traditional and learning-based robotics approaches.
+- Key Contributions:
+  - **Classical Robotics Pipeline**:
+    - Developed a robust **pick-and-place pipeline** using the Drake framework and KUKA iiwa robot.
+    - Highlighted limitations like kinematic singularities and lack of perception integration.
+  - **Learning-Based Methods**:
+    - Implemented and evaluated two advanced AI-driven policies:
+      - **Action Chunking with Transformers (ACT)**: Ensures smooth and coherent task execution.
+      - **Diffusion Policies**: Focuses on precision and iterative trajectory refinement.
+    - Applied to real-world tasks like pick-and-place, stacking, and object orientation.
+  - Hardware and Software Innovations
+    - Cost-effective hardware setup with dual RGB cameras and leader-follower robotic arms.
+    - Integrated AI frameworks like **LeRobot** to train and evaluate learning-based policies.
+    - Emphasized accessibility and scalability for educational and industrial applications.
+
+> Dive deeper into this research on the [Research Page](research.md), featuring detailed videos, images, and technical insights.
+
+## Work Experience
 
 ### Robotics Project Developer Intern – Kennedy Space Center Visitor Complex  
 *(June 2024 – Current, Florida, USA)*  
