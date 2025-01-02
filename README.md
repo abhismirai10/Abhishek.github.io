@@ -9,13 +9,8 @@ I am an innovative robotics engineer with 2+ years of experience in automation a
 ---
 
 ## Contact
-|  |  |
-|---|---|
-| **Phone** | +1 434-569-9343 |
-| **Email** | [abhismirai10@gmail.com](mailto:abhismirai10@gmail.com) |
-| **LinkedIn** | [Abhishek Chothani](https://www.linkedin.com/in/abhishek-chothani10/) |
-| **GitHub** | [abhismirai10](https://github.com/abhismirai10) |
-| **YouTube** | [@abhismirai10](https://www.youtube.com/@abhismirai10) |
+**Phone:** +1 434-569-9343 | **Email:** [abhismirai10@gmail.com](mailto:abhismirai10@gmail.com)
+**LinkedIn:** [Abhishek Chothani](https://www.linkedin.com/in/abhishek-chothani10/) | **GitHub:** [abhismirai10](https://github.com/abhismirai10) | **YouTube:** [@abhismirai10](https://www.youtube.com/@abhismirai10) |
 
 ---
 
