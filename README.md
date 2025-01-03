@@ -55,7 +55,7 @@ With a passion for bridging the gap between theory and practical application, I 
 *(Sep 2024 – Dec 2024, Melbourne, Florida)*  
 - Designed and tested **structural components** for augmented reality (AR) devices, enhancing real-time recognition capabilities.  
 - Deployed **AI-based object detection models** with **PyTorch** and **OpenCV** directly on AR hardware.  
-- Enhanced robotic arm automation projects with **Dynamixel servo integration** for precision and efficiency.  
+- Enhanced robotic arm automation projects with **computer vision and advance servo integration** for precision and efficiency.  
 - **Tools & Technologies**: PyTorch, OpenCV, Fusion 360, SolidWorks, ROS  
 
 ---
