@@ -58,8 +58,6 @@ With a passion for bridging the gap between theory and practical application, I 
 - Enhanced robotic arm automation projects with **Dynamixel servo integration** for precision and efficiency.  
 - **Tools & Technologies**: PyTorch, OpenCV, Fusion 360, SolidWorks, ROS  
 
-> **[AR Demo Video](#)**  
-
 ---
 
 ### Robotics Engineer – BandG Robotics  
@@ -68,8 +66,6 @@ With a passion for bridging the gap between theory and practical application, I 
 - Designed and tested **custom end-effectors** for diverse manufacturing tasks using **Fusion 360** and **SolidWorks**.  
 - Streamlined CNC manufacturing processes, reducing production time by 25%.  
 - **Tools & Technologies**: ROS, Python, SolidWorks, Ansys  
-
-> **[Photo Gallery](#)**  
 
 ---
 
